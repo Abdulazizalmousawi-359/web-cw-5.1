@@ -1,34 +1,32 @@
-// السؤال الأول
-// 1
+const name ="عبدالعزيز";
+let age=17;
 
-// 2
 
-// 3 and 4
+console.log("أنا"+" "+name+" "+"و عمري"+" "+age);
 
-// 5 and 6
+age*=5;
+console.log(age);
 
-// -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+let hobby=['soccer,basketball'];
+hobby.push(17);
 
-// السؤال الثاني
-// 1
+hobby.pop();
 
-// 2
+console.log(hobby);
+let web={
+    language:"html",
+};
 
-// 3
+let teachers=["hussain","nancy","rahaf","moudhi"];
 
-// 4
+choice={
+    language:"javascript",
+    path:"web",
+    teachers:["hussain","nancy","rahaf","moudhi"]
+};
 
-// 5
 
-// 6
+console.log(teachers[0]);
 
-// 7
-
-// -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
-
-// البونص
-// 1
-
-// 2
 
 // console results => console.png
